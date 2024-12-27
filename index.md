@@ -2,5 +2,5 @@
 
 Hello, world!
 
-* Teaching
+* [Teaching](/teaching)
 * Publications
