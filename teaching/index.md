@@ -5,6 +5,7 @@ I teach both data science and computer science classes.
 ## Spring 2025
 
 Office Hours:
+* CDS 1625
 * Monday 2-3pm
 * Wednesday 1-2pm
 * Thursday 11am-12pm, 3:30-4:30pm
