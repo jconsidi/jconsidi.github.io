@@ -2,13 +2,25 @@
 
 I teach both data science and computer science classes.
 
-## Spring 2025
+## Office Hours
 
-Office Hours:
+Spring 2025:
 * CDS 1625
 * Monday 2-3pm
 * Wednesday 1-2pm
 * Thursday 11am-12pm, 3:30-4:30pm
+
+## Fall 2025
+
+* CS 630 Graduate Algorithms
+* DS 542 Deep Learning for Data Science
+* DX 704 AI in the Field (online)
+
+## Summer 2025
+
+* DX 601 Mathematical Foundations of Data Science (online)
+
+## Spring 2025
 
 Classes:
 * [CS 655 Graduate Computer Networks](https://piazza.com/bu/spring2025/cs655)
