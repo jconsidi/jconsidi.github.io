@@ -4,17 +4,18 @@ I teach both data science and computer science classes.
 
 ## Office Hours
 
-Spring 2025:
-* CDS 1625
-* Monday 2-3pm
-* Wednesday 1-2pm
-* Thursday 11am-12pm, 3:30-4:30pm
+Fall 2025:
+* CDS 1645
+* Monday 11-12
+* Tuesday 3-4
+* Wednesday 1-2
+* Thursday 1-2
 
 ## Fall 2025
 
-* CS 630 Graduate Algorithms
-* DS 542 Deep Learning for Data Science
-* DX 704 AI in the Field (online)
+* [CS 640 Graduate Artificial Intelligence](https://learn.bu.edu/ultra/courses/_252537_1/outline)
+* [DS 542 Deep Learning for Data Science](https://dl4ds.github.io/fa2025)
+* [DX 704 AI in the Field](https://learn.bu.edu/ultra/courses/_216544_1/outline) (online)
 
 ## Summer 2025
 
