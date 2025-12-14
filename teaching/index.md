@@ -14,7 +14,7 @@ Fall 2025:
 ## Fall 2025
 
 * [CS 640 Graduate Artificial Intelligence](https://learn.bu.edu/ultra/courses/_252537_1/outline)
-* [DS 542 Deep Learning for Data Science](https://dl4ds.github.io/fa2025)
+* [DS 542 Deep Learning for Data Science](https://dl4ds.github.io/fa2025) ([site](https://dl4ds.github.io/fa2025/), [syllabus](https://dl4ds.github.io/fa2025/static_files/syllabus.pdf))
 * [DX 704 AI in the Field](https://learn.bu.edu/ultra/courses/_216544_1/outline) (online)
 
 ## Summer 2025
@@ -29,6 +29,6 @@ Fall 2025:
 
 ## Fall 2024
 
-* [CS 630 Graduate Algorithms](https://piazza.com/bu/fall2024/cs630) (co-taught with [Dora Erdos](https://cs-people.bu.edu/edori/))
-* [DS 542 Deep Learning for Data Science](https://dl4ds.github.io/fa2024)
+* [CS 630 Graduate Algorithms](https://piazza.com/bu/fall2024/cs630) (co-taught with [Dora Erdos](https://cs-people.bu.edu/edori/), [syllabus](https://drive.google.com/file/d/1tX8bz6qcbDe_PtjO_kmsugU3pPDDAv_D/view?usp=share_link))
+* [DS 542 Deep Learning for Data Science](https://dl4ds.github.io/fa2024) ([site](https://dl4ds.github.io/fa2024/), [syllabus](https://dl4ds.github.io/fa2024/static_files/syllabus.pdf))
 * [DX 601 Mathematical Foundations of Data Science](https://learn.bu.edu/ultra/courses/_144090_1/outline) (online)
