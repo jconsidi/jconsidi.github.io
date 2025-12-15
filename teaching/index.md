@@ -24,7 +24,7 @@ Fall 2025:
 ## Spring 2025
 
 * [CS 655 Graduate Computer Networks](https://piazza.com/bu/spring2025/cs655)
-* [DS 320 Algorithms for Data Science](https://www.kiragoldner.com/teaching/DS320/index.html) (co-teaching both sections with [Kira Goldner](https://www.kiragoldner.com))
+* [DS 320 Algorithms for Data Science](https://www.kiragoldner.com/teaching/DS320/index.html) (co-teaching both sections with [Kira Goldner](https://www.kiragoldner.com), [site](https://www.kiragoldner.com/teaching/DS320/spring25.html), [syllabus](https://www.kiragoldner.com/teaching/DS320/spring25/DS320-syllabus-25.pdf))
 * [DX 602 Programming Toolkit for Data Science](https://learn.bu.edu/ultra/courses/_167387_1/outline) (online)
 
 ## Fall 2024
