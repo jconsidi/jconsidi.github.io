@@ -12,13 +12,13 @@ Spring 2026
 
 ## Spring 2026
 
-* CS 542 Principles of Machine Learning
+* CS 542 Principles of Machine Learning ([syllabus](syllabi/2026-01-cs542.pdf))
 * DS 320 Algorithms for Data Science (co-teaching with [Kira Goldner](https://www.kiragoldner.com), [site](https://www.kiragoldner.com/teaching/DS320/index.html))
 * DX 704 AI in the Field
 
 ## Fall 2025
 
-* CS 640 Graduate Artificial Intelligence
+* CS 640 Graduate Artificial Intelligence ([syllabus](syllabi/2025-09-cs640.pdf))
 * DS 542 Deep Learning for Data Science ([syllabus](https://dl4ds.github.io/fa2025/static_files/syllabus.pdf), [site](https://dl4ds.github.io/fa2025))
 * DX 704 AI in the Field
 
