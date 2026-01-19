@@ -13,7 +13,7 @@ Spring 2026
 ## Spring 2026
 
 * CS 542 Principles of Machine Learning ([syllabus](syllabi/2026-01-cs542.pdf))
-* DS 320 Algorithms for Data Science (co-teaching with [Kira Goldner](https://www.kiragoldner.com), [site](https://www.kiragoldner.com/teaching/DS320/index.html))
+* DS 320 Algorithms for Data Science (co-teaching with [Kira Goldner](https://www.kiragoldner.com), [syllabus](https://www.kiragoldner.com/teaching/DS320/spring26/DS320-syllabus-26.pdf), [site](https://www.kiragoldner.com/teaching/DS320/index.html))
 * DX 704 AI in the Field
 
 ## Fall 2025
