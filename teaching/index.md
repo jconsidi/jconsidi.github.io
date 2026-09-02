@@ -4,11 +4,17 @@ I teach both data science and computer science classes.
 
 ## Office Hours
 
-Spring 2026
+Fall 2026
 * CDS 1645
-* Monday 11-12
-* Wednesday 1-2, 4-5
-* Thursday 1-2
+* Monday 10-12
+* Tuesday 9:30-10:30
+* Wednesday 1-2
+
+## Fall 2026
+
+* CS 640 Graduate Artificial Intelligence ([syllabus](syllabi/2026-09-cs640.pdf))
+* DS 320 Algorithms for Data Science ([syllabus](syllabi/2026-09-ds320.pdf))
+* DX 704 AI in the Field
 
 ## Spring 2026
 
